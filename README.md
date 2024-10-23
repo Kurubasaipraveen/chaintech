@@ -1,7 +1,8 @@
 Deploy Link:
 
 https://chaintech-crzpsc4t3-kurubasaipraveens-projects.vercel.app/
-
+Demo Video:
+Link : https://drive.google.com/drive/folders/1jS_pp-0Bxl6rqtc7YlN6JKvJxd06zxRF?usp=sharing
 Run the Project:
 
 1.cd frontend
